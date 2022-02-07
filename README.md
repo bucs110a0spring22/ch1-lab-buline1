@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols (including the < >)._
 
 ## SUMMARY OF LATE POLICY FOR THE COURSE:
- < Provide a  description of the courses late policy >
+ The courses late policy is we are given 5 grace days to use on any lab. Following the usage of all 5 grace days, every 24 hours after that the lab is not submitted, 10 percent is deducted from the grade. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ I was able to complete all parts I believe
 
 ## REFERENCES:
- < List any outside resources used >
+ Only used description posted and help from TA in lab session
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ No, all is good
